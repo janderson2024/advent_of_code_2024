@@ -1,4 +1,3 @@
-
 def part1(left_side, right_side):
 	left_side.sort()
 	right_side.sort()
